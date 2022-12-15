@@ -3,6 +3,8 @@
 </link>
 
 import styles from "./Story.module.css";
+import React, {useEffect} from 'react'
+import {useEffect} from "react/cjs/react.development":
 
 export default function Story() {
     return (
